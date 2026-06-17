@@ -1,1 +1,48 @@
-# ASE-CW01-SRMSS
+# Smart Route Management and Scheduling System (SRMSS)
+
+## Project Overview
+
+The Smart Route Management and Scheduling System (SRMSS) is a web-based transport management system developed for public transport depots. The system helps administrators manage routes, schedules, vehicles, fuel records, maintenance activities, and operational reports through a centralized platform.
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
+## Main Features
+
+* Route Management
+* Schedule Management
+* Vehicle Management
+* Driver Management
+* Fuel Management
+* Maintenance Tracking
+* Reports and Analytics
+* User Profile Management
+
+## Database Setup
+
+1. Create a MySQL database.
+2. Import `SRMSS - Database.sql`.
+3. Configure database credentials in `backend/config.php`.
+
+## Running the System
+
+1. Install XAMPP.
+2. Place the project folder inside `htdocs`.
+3. Start Apache and MySQL.
+4. Import the database file.
+5. Open the browser and navigate to:
+
+   `http://localhost/srmss_final`
+
+## Project Information
+
+**Module:** CS6003 Advanced Software Engineering
+
+**Project:** Smart Route Management and Scheduling System (SRMSS)
+
+**Institution:** London Metropolitan University
